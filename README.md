@@ -1,11 +1,8 @@
 <div align="center">
 
-# 🔐 FRAUD DETECTION SYSTEM  
-### 🧠 Ensemble Learning (CatBoost + LightGBM + ML Models)
+#FRAUD DETECTION SYSTEM  
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/ML-Ensemble%20Learning-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Dataset](https://img.shields.io/badge/Dataset-Synthetic%20Banking-purple?style=for-the-badge)
 
 </div>
